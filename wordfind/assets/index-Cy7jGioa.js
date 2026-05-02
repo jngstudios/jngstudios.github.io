@@ -15,7 +15,7 @@
           <div class="dict-versions">
             <span class="dict-version-row">All words <code>${s.allWords}</code></span>
             <span class="dict-version-row">Good words <code>${s.goodWords}</code></span>
-            <span class="dict-version-row">Built <code>2026-05-02 15:48 UTC</code></span>
+            <span class="dict-version-row">Built <code>2026-05-02 15:51 UTC</code></span>
           </div>
         </div>`:"",E=r.map(C=>`
     <label class="theme-opt">
