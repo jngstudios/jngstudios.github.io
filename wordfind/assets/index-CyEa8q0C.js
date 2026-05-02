@@ -19,7 +19,7 @@
           <div class="dict-versions">
             <span class="dict-version-row">All words <code>${n.allWords}</code></span>
             <span class="dict-version-row">Good words <code>${n.goodWords}</code></span>
-            <span class="dict-version-row">Built <code>2026-05-02 14:45 UTC</code></span>
+            <span class="dict-version-row">Built <code>2026-05-02 14:46 UTC</code></span>
           </div>
         </div>`:"";e.innerHTML=`
     <div class="settings-screen">
